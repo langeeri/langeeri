@@ -6,7 +6,7 @@
 
 ---
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="center">Languages and Tools:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,py,sqlite,nginx,linux,bash,neovim,git,github,js,css,html,md" />
