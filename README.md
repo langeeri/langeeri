@@ -17,7 +17,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=langeeri&show_icons=true&locale=en&layout=compact" alt="langeeri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=langeeri&show_icons=true&locale=en" alt="langeeri" /></p>
-
