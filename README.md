@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm erika</h1>
-<h3 align="center">I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and PLC programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is just for personal projects. </h3>
+<h1 align="left">Hi 👋, I'm erika</h1>
+<div style="text-align: justify;">
+  <h3>I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and PLC programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is just for personal projects.</h3>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
