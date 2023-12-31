@@ -14,8 +14,11 @@
 </p>
 
 ---
-<a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
+<h4 align="center">Socials:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/erika-langerov%C3%A1-35060b1b2/"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  </a>
+</p>
 
 
