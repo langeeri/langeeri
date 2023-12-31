@@ -16,9 +16,7 @@
 ---
 <h4 align="center">Socials:</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <a href="https://www.linkedin.com/in/erika-langerov%C3%A1-35060b1b2/"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  </a>
+  <a href="https://www.linkedin.com/in/erika-langerov%C3%A1-35060b1b2/"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 
