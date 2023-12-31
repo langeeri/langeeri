@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erika </h1>
 
 <div align="center">
-  <h4>I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and PLC programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is just for personal projects.</h4>
+  <h4>I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and PLC programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is mostly for my personal projects, but you might find a sprinkle of code snippets from UCEEB-related projects occasionally making their way here too. Of course sharing just the code that's okay to go public with 😉. </h4>
 </div>
 
 ---
