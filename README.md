@@ -1,6 +1,6 @@
-<h2 align="left">Hi, I'm langeeri</h2>
+<h2 align="center">Hi, I'm Erika </h2>
 
-<div style="text-align: justify;">
+<div style="text-center: justify;">
   <h4>I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and PLC programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is just for personal projects.</h4>
 </div>
 
