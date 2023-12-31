@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm erika</h1>
-<h3 align="center">I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and plc programming for UCEEB <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">Regulus</a>. This GitHub is just for personal projects. </h3>
+<h3 align="center">I do web apps in Django for <a href="https://www.regulus.cz/" target="_blank" rel="noreferrer">Regulus</a> and plc programming for <a href="https://www.uceeb.cz/" target="_blank" rel="noreferrer">UCEEB</a>. This GitHub is just for personal projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=langeeri&label=Profile%20views&color=0e75b6&style=flat" alt="langeeri" /> </p>
 
