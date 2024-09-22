@@ -9,8 +9,8 @@
 <h4 align="center"> Frameworks, Languages and Tools I Use The Most:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,sqlite,nginx,linux,bash,neovim,git,js,css,html,md,react,ts,nodejs" />
-    <img src="https://skillicons.dev/icons?i=vscode,vscodium,docker" />
+    <img src="https://skillicons.dev/icons?i=django,py,sqlite,postgresql,nginx,linux,docker,react,nodejs,ts,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=vscode,vscodium,neovim,git,md,bash" />
   </a>
 </p>
 
